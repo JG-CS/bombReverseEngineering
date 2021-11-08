@@ -1,0 +1,6 @@
+Houses will begat jobs, jobs will begat houses.
+0 1 4 11 26 57
+0 665
+5 5
+((((((
+6 3 5 4 2 1
